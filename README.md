@@ -1,4 +1,6 @@
-
+<div align="center">
+  <center><h1> Certifications </h1></center>
+</div>
   
 ***
 # In progress certifications . . .
